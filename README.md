@@ -2,7 +2,7 @@
 # Red Academy html quiz
 #### A HTML quiz for prospective Professional Web Development students in Toronto
 
-In this quiz you will be trying to re-create the mock-up of red-landing.jpg. This aim of this quiz is to test your ability in HTML, CSS and JS.
+In this quiz you will be trying to re-create the mock-up of red-landing.jpg. This aim of this quiz is to test your ability in HTML, and CSS.
 
 ## Design Specifications 
 #### Typography:
