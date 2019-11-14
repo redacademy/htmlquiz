@@ -45,11 +45,9 @@ a {
   text-transform: uppercase;
 }
 
-.nav_links {
-    list-style: none;
-}
 
 .nav_links li{
+  list-style: none;
   display:inline;
   padding:0px 5px;
 }
